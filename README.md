@@ -60,18 +60,6 @@
 
 ###
 
-<h1 align="center">This Keeps Me FOCUSED!</h1>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31q2v5tzuaw25g6wj4mhpels6fsy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q2v5tzuaw25g6wj4mhpels6fsy&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h2 align="center">Aw, Snap! :' )</h2>
 
 ###
