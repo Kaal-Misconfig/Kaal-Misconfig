@@ -3,12 +3,18 @@
 ###
 
 <div align="center">
-  <img height="370" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif"  />
+  <img height="200" src="https://files09.oaiusercontent.com/file-JfgotkzQK67ahtqX1NGUNR?se=2025-05-07T17%3A02%3A25Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dhawk_eye_glitch_clean.gif&sig=21GI3VfpPOHODniO3Rjf/16WBEa8RhL3A921ZbTWlUQ%3D"  />
 </div>
 
 ###
 
-<h1 align="center">TechStack</h1>
+<h1 align="center">💻 TechStack ⚡</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://backdocket.com/wp-content/uploads/2020/01/FEATURESPAGE.gif"  />
+</div>
 
 ###
 
@@ -46,7 +52,7 @@
 
 ###
 
-<h1 align="center">GitHub Stats</h1>
+<h1 align="center">📊 GitHub Stats 📈</h1>
 
 ###
 
@@ -60,17 +66,31 @@
 
 ###
 
-<h2 align="center">Aw, Snap! :' )</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Kaal-Reconf/Kaal-Reconf/output/snake.svg" alt="Snake animation" />
+<h2 align="center">🔗 Connect me here</h2>
 
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaal-Reconf.Kaal-Reconf&left_color=darkgreen&right_color=darkred&left_text=Spectators"  />
+  <a href="https://www.linkedin.com/in/pranav-bokade-643320328/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/kaalmisconfig" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1239614564979441804" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="www.youtube.com/@cyclickaal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://dev.to/kaalmisconfig" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Kaal-Reconf/Kaal-Reconf/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -81,5 +101,11 @@
 ###
 
 <h4 align="left">Its Kaal</h4>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaal-Reconf.Kaal-Reconf&left_color=darkgreen&right_color=darkred&left_text=Spectators"  />
+</div>
 
 ###
