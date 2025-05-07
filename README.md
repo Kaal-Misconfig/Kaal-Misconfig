@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://files09.oaiusercontent.com/file-JfgotkzQK67ahtqX1NGUNR?se=2025-05-07T17%3A02%3A25Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dhawk_eye_glitch_clean.gif&sig=21GI3VfpPOHODniO3Rjf/16WBEa8RhL3A921ZbTWlUQ%3D"  />
+  <img height="200" src="https://github.com/Kaal-Reconf/Kaal-Reconf/blob/main/hawk_eye_glitch_clean.gif?raw=true"  />
 </div>
 
 ###
