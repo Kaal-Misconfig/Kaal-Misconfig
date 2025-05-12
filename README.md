@@ -89,16 +89,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kaal-Misconfig/Kaal-Misconfig/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/40cxBsgqqwb65M5ivp/giphy.gif"  />
-</div>
-
-###
-
 <h4 align="left">Its Kaal</h4>
 
 ###
@@ -106,5 +96,13 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaal-Misconfig.Kaal-Misconfig&left_color=darkgreen&right_color=darkred&left_text=Spectators"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaal-Misconfig/Kaal-Misconfig/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaal-Misconfig/Kaal-Misconfig/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaal-Misconfig/Kaal-Misconfig/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
